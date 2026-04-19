@@ -1,0 +1,7 @@
+project_id = "bzgupumvtoxfyuzyvadz"
+
+[functions.firecrawl-scrape]
+verify_jwt = false
+
+[functions.scrape-catalog]
+verify_jwt = false
